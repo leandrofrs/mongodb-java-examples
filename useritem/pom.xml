@@ -38,5 +38,10 @@
       <version>4.12</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>com.google.code</groupId>
+      <artifactId>morphia</artifactId>
+      <version>0.94-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 </project>
